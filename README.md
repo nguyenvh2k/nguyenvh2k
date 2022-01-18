@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python,C#,C++,javscript,nodejs,..
 - 👯 I’m looking to collaborate on job
 - 🤔 I’m looking for help with game developer
-- 💬 Ask me about programming 
+- 💬 Ask me about 
 - 📫 How to reach me: https://www.facebook.com/smile10012208/
 - 😄 Pronouns: Nguyen
 - ⚡ Fun fact: Lazy
